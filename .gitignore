@@ -79,7 +79,7 @@ simgen.opt
 system_routed
 *.ipf
 impact.xsl
-*.mhs
+*_bd.mhs
 executable.elf
 xmd_processor.opt
 _impact.cmd
@@ -94,3 +94,7 @@ isim.cmd
 .dswkshop/
 revup/
 __xps/
+.metadata/
+*.elf
+*.o
+SDK_Export/

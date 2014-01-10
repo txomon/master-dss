@@ -98,3 +98,6 @@ __xps/
 *.elf
 *.o
 SDK_Export/
+*.d
+*.elf.elfcheck
+*.elf.size

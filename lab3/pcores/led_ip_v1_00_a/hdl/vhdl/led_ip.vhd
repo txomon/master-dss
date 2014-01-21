@@ -294,7 +294,6 @@ begin
     (
       -- MAP USER GENERICS BELOW THIS LINE ---------------
       --USER generics mapped here
-      LED                            => LED,
       -- MAP USER GENERICS ABOVE THIS LINE ---------------
 
       C_NUM_REG                      => USER_NUM_REG,
@@ -304,6 +303,7 @@ begin
     (
       -- MAP USER PORTS BELOW THIS LINE ------------------
       --USER ports mapped here
+      LED                            => LED,
       -- MAP USER PORTS ABOVE THIS LINE ------------------
 
       Bus2IP_Clk                     => ipif_Bus2IP_Clk,

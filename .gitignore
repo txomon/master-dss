@@ -75,6 +75,7 @@ XpsGuiSessionLock
 *.xreport
 *.lst
 simgen.opt
+platgen.opt
 *.stackdump
 system_routed
 *.ipf

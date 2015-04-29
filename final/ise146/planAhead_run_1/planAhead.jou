@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# PlanAhead v14.1 (64-bit)
+# Build 179419 by xbuild on Thu Apr 26 11:38:48 MDT 2012
+# Start of session at: Thu Feb 13 18:54:45 2014
+# Process ID: 14768
+# Log file: /home/javier/proyectos/master/master-dss/final/ise146/planAhead_run_1/planAhead.log
+# Journal file: /home/javier/proyectos/master/master-dss/final/ise146/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source /home/javier/proyectos/master/master-dss/final/ise146/pa.fromNcd.tcl
+exit

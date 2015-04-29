@@ -1,0 +1,10 @@
+project new /home/javier/proyectos/master/master-dss/final/pcores/axi_stream_example_v1_00_a/devl/projnav/axi_stream_example.xise;
+project set family spartan6;
+project set device xc6slx45t;
+project set package fgg484;
+project set speed -3;
+project set top_level_module_type HDL;
+project set synthesis_tool "XST (VHDL/Verilog)";
+lib_vhdl new axi_stream_example_v1_00_a;
+xfile add /home/javier/proyectos/master/master-dss/final//pcores/axi_stream_example_v1_00_a/hdl/vhdl/axi_stream_example.vhd -lib_vhdl axi_stream_example_v1_00_a;
+project close;

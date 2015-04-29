@@ -1,0 +1,12 @@
+-batch 
+-create axi_lite_example 
+-ver 1.00.a 
+-dir "/home/javier/proyectos/master/master-dss/final" 
+-lang vhdl 
+-bus axi4lite s 
+-rst 
+-reg 32 
+-xps 
+-ise 
+-bfmsim all
+-driver 

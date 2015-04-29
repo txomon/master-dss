@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          /home/javier/proyectos/master/master-dss/final/pcores/axi_lite_example_v1_00_a/data/axi_lite_example_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Sat Mar  1 19:05:14 2014 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib axi_lite_example_v1_00_a user_logic vhdl
+lib axi_lite_example_v1_00_a axi_lite_example vhdl
